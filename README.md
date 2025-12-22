@@ -94,7 +94,7 @@
 
 ![Me Again](https://images.steamusercontent.com/ugc/14538439570979846740/546D8D8833264E1F2841943ECFE6262609E5234D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
-> _"We are human, not horse. Human are evolving..."_
+> _"Ireng siji Ireng Loro..."_
 
 <p align="center">
   <img src="https://count.getloli.com/@RUckyTheGreat?name=RUckyTheGreat&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=12725997&prefix=0" />
