@@ -77,6 +77,10 @@
 
 ---
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/RUckyTheGreat/RUckyTheGreat/output/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🔗 Connect with Me
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naptuneeel)
