@@ -77,9 +77,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://raw.githubusercontent.com/RUckyTheGreat/RUckyTheGreat/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ## 🔗 Connect with Me
 
