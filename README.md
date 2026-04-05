@@ -1,6 +1,16 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=Rucky%20The%20Great&fontSize=35&fontColor=ffffff" />
+</div>
+
 # 👋 Hi, I'm Rucky!
 
-🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist(Rarely) | 🔧 Blender Tinkerer (maybe)
+🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist (Rarely) | 🔧 Blender Tinkerer
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code;Game+Dev+%2B+Web+Dev+Explorer" />
+</div>
 
 ---
 
@@ -17,20 +27,20 @@
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RUckyTheGreat&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUckyTheGreat&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruckythegreat&theme=radical&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruckythegreat&theme=radical&layout=compact&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RUckyTheGreat&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ruckythegreat&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUckyTheGreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruckythegreat&bg_color=0d1117&color=ffffff&line=ff4f8b&point=fcd12a&area=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RUckyTheGreat&theme=radical&margin-w=10&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ruckythegreat&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -38,64 +48,65 @@
 ## 🛠 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Luau](https://img.shields.io/badge/luau-blue?style=for-the-badge&logo=lua&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-005f73?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+![Luau](https://img.shields.io/badge/luau-blue?style=for-the-badge&logo=lua)
+![FastAPI](https://img.shields.io/badge/fastapi-005f73?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender)
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-- 🥇 **Jurnalis** (Unknown issuing organization)
+- 🥇 **Jurnalis**
 - 🥈 [Story Telling Online Contest - Korean from UPI](https://drive.google.com/file/d/1aIYjaRizw5xI_F_JvDXlWU3w40tk1tmL/view?usp=drive_link)
 
 ---
 
 ## ✨ Featured Projects
 
-- 🧟 [**Mimi Visual**](https://github.com/RUckyTheGreat/MimiVisualNovel): Visual novel website using react and vite js and easly custom the plot on json.
-- 🔐 [**My waifu**](https://github.com/RUckyTheGreat/My-waifu-simulator): Php api that connected to api waifu searching.
-- 🎮 [**jawa kalku**](https://github.com/RUckyTheGreat/jawaskripsikalku): A personal calculator website.
+- 🧟 [Mimi Visual](https://github.com/ruckythegreat/MimiVisualNovel)
+- 🔐 [My Waifu](https://github.com/ruckythegreat/My-waifu-simulator)
+- 🎮 [Jawa Kalku](https://github.com/ruckythegreat/jawaskripsikalku)
 
 ---
 
-## �� Currently Exploring
+## 🚀 Extra Cool Stuff
 
-- 🤖 Unity maybe oneday ajalah
-- ✨ UI animation and UX improvement for web apps
-- 📊 Real-time feedback, backend logic, and cloud deployment
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ruckythegreat/ruckythegreat/output/snake.svg" />
+</p>
 
 ---
-
-<!-- <div align="center">
-    <img src="https://raw.githubusercontent.com/RUckyTheGreat/RUckyTheGreat/output/snake.svg" alt="Snake animation" />
-</div> -->
 
 ## 🔗 Connect with Me
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naptuneeel)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vyu_tune)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ruckishuman)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/critical_Ravine)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2zwUr3jaHx)
-[![Roblox](https://img.shields.io/badge/Roblox-%2320232a.svg?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3101268537/profile)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@naptuneeel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/vyu_tune)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ruckishuman)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/2zwUr3jaHx)
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RUckyTheGreat&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=ruckythegreat&color=blue)
+
+---
 
 ## ✨ Thanks for Visiting!
 
-![Me Again](https://images.steamusercontent.com/ugc/14538439570979846740/546D8D8833264E1F2841943ECFE6262609E5234D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![Me Again](https://images.steamusercontent.com/ugc/14538439570979846740/546D8D8833264E1F2841943ECFE6262609E5234D/?imw=5000)
 
-> _"Ireng siji Ireng Loro..."_
+> _"Ireng siji Ireng loro..."_
 
-<p align="center">
-  <img src="https://count.getloli.com/@RUckyTheGreat?name=RUckyTheGreat&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=12725997&prefix=0" />
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/@ruckythegreat?name=ruckythegreat&theme=rule34&padding=7" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0d1117&height=120&section=footer"/>
+</div>
