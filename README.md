@@ -75,7 +75,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ruckythegreat/ruckythegreat/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ruckythegreat/ruckythegreat/output/snake-dark.svg" />
 </p>
 
 ---
