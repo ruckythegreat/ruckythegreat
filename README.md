@@ -48,8 +48,6 @@
 ![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-![Steam Art](https://images.steamusercontent.com/ugc/18020879235061954736/A37FFD23E52EFE068C0A0EEBE1C68D839A4D3D09/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
 ---
 
 ## 🏅 Certifications & Achievements
@@ -72,8 +70,6 @@
 - 🤖 Unity maybe oneday ajalah
 - ✨ UI animation and UX improvement for web apps
 - 📊 Real-time feedback, backend logic, and cloud deployment
-
-![Me](https://images.steamusercontent.com/ugc/12116828473796026703/5DCEF9C3AA8E1FD3542CCC4CA9713E82C70775E1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ---
 
