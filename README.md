@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=Rucky%20The%20Great&fontSize=35&fontColor=ffffff" />
 </div>
 
-# 👋 Hi, I'm Rucky!
-
-🎩 Game Dev Enthusiast | 👨‍💻 Programmer | 🎨 Digital Artist (Rarely) | 🔧 Blender Tinkerer
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ruckythegreat&data=followers,repositories,stars&theme=darkmode" />
+</div>
 
 ---
 
@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code;Game+Dev+%2B+Web+Dev+Explorer" />
 </div>
 
----
 
 ### 🧠 About Me
 
@@ -38,14 +37,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ruckythegreat&theme=radical&no-frame=true&margin-w=10"/>
 </p>
-
----
-
-## 🧩 Profile Overview
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ruckythegreat&data=followers,repositories,stars&theme=darkmode" />
-</div>
 
 ---
 
