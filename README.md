@@ -26,11 +26,7 @@
 
 ## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruckythegreat&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruckythegreat&theme=radical&layout=compact&hide_border=true" height="170"/>
-</p>
-
+<!-- NOTE: stats kadang down, ini versi paling stabil -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ruckythegreat&theme=radical&hide_border=true" height="170"/>
 </p>
@@ -40,22 +36,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruckythegreat&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ruckythegreat&theme=radical&no-frame=true&margin-w=10"/>
 </p>
+
+---
+
+## 🧩 Profile Overview
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ruckythegreat&data=followers,repositories,stars&theme=darkmode" />
+</div>
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![Luau](https://img.shields.io/badge/luau-blue?style=for-the-badge&logo=lua)
-![FastAPI](https://img.shields.io/badge/fastapi-005f73?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
-![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,fastapi,git,blender" />
+</div>
 
 ---
 
@@ -74,7 +72,7 @@
 
 ---
 
-## 🚀 Extra Cool Stuff
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ruckythegreat/ruckythegreat/output/snake.svg" />
@@ -91,8 +89,18 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ruckythegreat&color=blue)
-
+<div align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=ruckythegreat&color=63a4ff&style=for-the-badge" style="margin-bottom: 5px;" />
+  <a href="https://github.com/ruckythegreat">
+    <img src="https://badges.pufler.dev/years/ruckythegreat?style=for-the-badge&color=63a4ff" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/ruckythegreat">
+    <img src="https://badges.pufler.dev/repos/ruckythegreat?style=for-the-badge&color=63a4ff" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/ruckythegreat">
+    <img src="https://badges.pufler.dev/commits/monthly/ruckythegreat?style=for-the-badge&color=63a4ff" style="margin-bottom: 5px;" />
+  </a>
+</div>
 ---
 
 ## ✨ Thanks for Visiting!
