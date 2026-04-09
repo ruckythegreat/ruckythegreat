@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=Rucky%20The%20Great&fontSize=35&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ruckythegreat&data=followers,repositories,stars&theme=darkmode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=RuckyTheGreat&fontSize=35&fontColor=ffffff" />
 </div>
 
 ---
